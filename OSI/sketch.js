@@ -62,7 +62,7 @@ var d6=10;
 //MY VARIABLES ENDS
 
 function setup() {
-     createCanvas(1350,600);
+     createCanvas(1350,800);
    
     button= createButton("Application Layer")
     button.size(300,40);
